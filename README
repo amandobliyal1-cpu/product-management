@@ -1,0 +1,25 @@
+### Setting up the .env file
+
+Create a `.env` file in your project root with the following content:
+
+```env
+
+MONGO_URI=your_mongo_uri
+PORT=5000
+```
+
+### Running the app locally
+
+To build the application, run:
+
+```sh
+npm run build
+```
+
+### Starting the app
+
+To start the application, run:
+
+```sh
+npm run start
+```
