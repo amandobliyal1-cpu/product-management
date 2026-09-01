@@ -97,9 +97,4 @@ product-management/
 
 ## Screenshots
 
-\
-![alt text](image.png)
-
-## License
-
-This project is licensed under the ISC License.
+![Home page](./frontend/public/screenshot-for-readme.png)
