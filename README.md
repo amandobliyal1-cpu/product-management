@@ -75,8 +75,6 @@ product-management/
    ```sh
    npm run dev
    ```
-   This starts the backend on `http://localhost:5000`. Run the frontend separately from `frontend/` with `npm run dev` (Vite dev server, typically `http://localhost:5173`), which proxies API calls to the backend.
-
 5. **Build & run in production mode**
    ```sh
    npm run build
