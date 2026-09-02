@@ -94,7 +94,3 @@ product-management/
 | POST   | `/api/products`       | Create a new product     |
 | PUT    | `/api/products/:id`   | Update an existing product |
 | DELETE | `/api/products/:id`   | Delete a product          |
-
-## Screenshots
-
-![Home page](./frontend/public/screenshot-for-readme.png)
