@@ -85,12 +85,4 @@ product-management/
    ```
    Open `http://localhost:5000` — the backend serves the built frontend directly.
 
-## API Endpoints
 
-| Method | Endpoint             | Description             |
-|--------|-----------------------|--------------------------|
-| GET    | `/api/products`       | Get all products         |
-| GET    | `/api/products/:id`   | Get a single product     |
-| POST   | `/api/products`       | Create a new product     |
-| PUT    | `/api/products/:id`   | Update an existing product |
-| DELETE | `/api/products/:id`   | Delete a product          |
