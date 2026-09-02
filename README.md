@@ -18,7 +18,6 @@ A full-stack **product management app** built with the MERN stack. Add, view, up
 - React Router DOM
 - Zustand — state management
 - Chakra UI — component library & theming
-- Framer Motion — animations
 - React Icons
 
 **Backend**
