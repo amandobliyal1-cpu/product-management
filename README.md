@@ -69,7 +69,6 @@ product-management/
 3. **Install dependencies** (backend + frontend)
    ```sh
    npm install
-   npm install --prefix frontend
    ```
 
 4. **Run in development mode**
